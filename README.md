@@ -24,7 +24,7 @@ probably a lot more significant than an income difference of 50 dollars. So this
 a choice of methods that can be used to map per-feature difference values into the range
 [0 1] so that they are more directly comparable.
 
-This module combines the re-mapped metric values using a sinmple weighted sum. The weights
+This module combines the re-mapped metric values using a simple weighted sum. The weights
 are user-defined.
 
 
